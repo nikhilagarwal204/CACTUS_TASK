@@ -1,0 +1,13 @@
+2020-07-26 22:44:33,762 INFO     
+
+2020-07-26 22:44:33,762 INFO     ==== ==== ==== ==== Starting New Run ==== ==== ==== ==== 
+2020-07-26 22:44:33,762 INFO     Loading dataset from : C:\Users\91933\CactusLabsPythonTest\data.txt
+2020-07-26 22:44:33,762 INFO     sample #0: node_a=290, node_b=10
+2020-07-26 22:44:42,246 WARNING  expected=5, actual=262105
+2020-07-26 22:44:42,247 INFO     sample #1: node_a=128, node_b=130
+2020-07-26 22:44:50,786 WARNING  expected=129, actual=262105
+2020-07-26 22:44:50,786 INFO     sample #2: node_a=762, node_b=762
+2020-07-26 22:44:59,925 WARNING  expected=918, actual=262105
+2020-07-26 22:44:59,925 INFO     ==== ==== Please do not delete this file or it's contents.
+2020-07-26 22:44:59,926 INFO     ==== ==== It's ok to keep the results of your multiple runs. In such cases we will consider the last run.
+2020-07-26 22:44:59,926 INFO     ==== ==== ==== ==== Run Complete ==== ==== ==== ==== 
